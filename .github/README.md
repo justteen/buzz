@@ -98,5 +98,6 @@ Jika kalian tertarik dan puas dengan Proyek ini bantu support kami:
 - Tulis didalam blog atau konten anda menggunakan repo ini.
 
 Kamu juga bisa tlaktir kopi :)
-[DANA](https://link.dana.id/qr/61ybufu)
-[DONASI](https://saweria.co/ridwansy)
+- [DANA](https://link.dana.id/qr/61ybufu)
+
+- [DONASI](https://saweria.co/ridwansy)
