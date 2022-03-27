@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/ffcf11e6177faa23ba613.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/ffcf11e6177faa23ba613.jpg" align="center" width="200" height="200"/>
 
 # BUZZ
 
