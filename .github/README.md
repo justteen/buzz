@@ -1,6 +1,6 @@
 <img src="https://telegra.ph/file/ffcf11e6177faa23ba613.jpg" align="right" width="200" height="200"/>
 
-#BUZZ
+# BUZZ
 
 [BUZZ Music Bot](https://github.com/justteen/buzz) adalah Bot Musik + Video Telegram yang Kuat yang ditulis dengan Python menggunakan Pyrogram dan Py-Tgcalls yang dengannya Anda dapat melakukan streaming lagu, video, dan bahkan streaming langsung dalam panggilan grup Anda melalui berbagai sumber.
 
