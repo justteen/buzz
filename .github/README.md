@@ -73,8 +73,8 @@ buzz@cruviax~ $ git clone https://github.com/justteen/buzz
 buzz@cruviax~ $ cd buzz
 buzz@cruviax~ $ sudo bash setup
 ```
-> Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
-> Please input your vars correctly.
+> Setup akan menginstal setiap persyaratan, nodejs dan paket pip secara otomatis. Setelah instalasi persyaratan berhasil, setup akan meminta Anda untuk memasukkan vars Anda.
+> Silakan masukkan vars Anda dengan benar.
 
 ```console
 buzz@cruviax~ $ bash start
@@ -82,22 +82,21 @@ buzz@cruviax~ $ bash start
 </details>
 
 
-## 🏷 Support
+## 👨‍💻 Support
 
-Reach out to the maintainer at one of the following places:
+Hubungi pengelola di salah satu tempat berikut:
 
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+- [Telegram Group](https://t.me/buzzsupport)
+- [Telegram CH](https://t.me/supbuz)
 
-## 🎗 Project assistance
+## 🎗 Lain - lain
 
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
+Jika kalian tertarik dan puas dengan Proyek ini bantu support kami:
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
-- Fork the Repo :)
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
+- Tambahkan [GitHub Star](https://github.com/justteen/buzz) di Proyek ini.
+- Fork Repo ini :)
+- Tulis didalam blog atau konten anda menggunakan repo ini.
 
-PS: You can buy me a coffee too :)
-<p><a href="https://www.buymeacoffee.com/notreallysy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
+Kamu juga bisa tlaktir kopi :)
+[DANA](https://link.dana.id/qr/61ybufu)
+[DONASI](https://saweria.co/ridwansy)
