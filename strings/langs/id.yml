@@ -141,6 +141,26 @@ cplay_4 : "Gagal mendapatkan saluran.\n\nPastikan Anda telah menambahkan bot di 
 cplay_5 : "Hanya Saluran yang didukung."
 cplay_6 : "Anda harus menjadi Pemilik saluran[{0}] untuk menghubungkannya dengan grup ini.\nPemilik Saluran: @{1}\n\nAtau Anda dapat menautkan grup Anda ke saluran itu dan kemudian mencoba menghubungkan dengan /channelplay tertaut"
 
+#Mainkan
+play_1 : "🔄 Memproses Kueri... Harap Tunggu!"
+play_2 : "🏷Mode Putar Saluran\n\n🔄 Memproses Kueri... Harap Tunggu!\nSaluran Tertaut: {0}"
+play_3 : "Gagal Memproses Kueri!"
+play_4 : "🖇 Hanya Admin Putar\nHanya Admin dan Pengguna Auth yang dapat memutar musik di grup ini.\n\nUbah mode melalui /playmode dan jika Anda sudah menjadi admin, muat ulang admincache melalui /admincache"
+play_5 : "Gagal memproses file audio.\n\nUkuran File Audio Harus Kurang dari 100 mb"
+play_6 : "Batas Durasi Terlampaui\n\nDurasi yang Diizinkan: {0} menit\nDurasi yang Diterima: {1} jam"
+play_7 : "Maaf! Bot hanya mengizinkan panggilan video dalam jumlah terbatas karena masalah kelebihan CPU. Banyak obrolan lain menggunakan panggilan video sekarang. Coba beralih ke audio atau coba lagi nanti"
+play_8 : "Bukan Ekstensi File Video yang Valid!\n\nFormat yang Didukung: {0}"
+play_9 : "Ukuran File Video Harus Kurang dari 1 GiB"
+play_10 : "Fitur Daftar Putar YouTube\n\nPilih Mode di mana Anda ingin memutar seluruh Daftar Putar Youtube"
+play_11 : "📎Judul: {0}\n\n⏳Durasi: {1} Menit"
+play_12 : "Mode Putar Spotify\n\nDiminta Oleh:- {0}"
+play_13 : "Daftar Putar Apple\n\nDiminta Oleh:- {0}"
+play_14 : "Tidak dapat memverifikasi URL.\nBot bertanya-tanya apakah url ini milik salah satu platform berikut: Youtube, AppleMusic, Spotify, Resso, dan Soundcloud.\n\nAnda dapat menggunakan /stream untuk M3u8 atau Remote Links."
+play_15 : "Streaming Langsung Terdeteksi\n\nSistem telah mendeteksi tautan trek Anda sebagai streaming langsung. Ingin memutar streaming langsung ?"
+play_16 : "Gagal mengambil detail trek. Coba mainkan yang lain."
+play_17 : "Tidak dapat memainkan jenis kueri spotify ini!\n\nSaya hanya dapat memutar trek, album, artis, dan daftar putar spotify"
+play_18 : "Tidak Ditemukan Obrolan Suara Aktif\n\nUntuk menggunakan force play, harus ada obrolan suara aktif yang terjadi di grup Anda. Force Play menghentikan trek yang diputar di obrolan suara dan mulai memutar trek yang dicari secara instan tanpa mengganggu/mengosongkan antrean ."
+
 #Daftar Putar
 playlist_1 : "Penggunaan: /play [Nama Musik atau Tautan Youtube atau Balas Audio]\n\nJika Anda ingin memutar Daftar Putar Server Bot! Tekan tombol di bawah."
 playlist_2 : "Mendapatkan daftar putar Anda. Harap tunggu"
@@ -151,7 +171,7 @@ playlist_6 : "Hubungi saya di PM untuk penghapusan Daftar Putar."
 playlist_7 : "Tracks Inside Playlist: {0}\n\nTekan Tombol untuk menghapus trek tertentu di playlist Anda.\n\nUntuk menghapus seluruh playlist: Tekan tombol Del Whole Playlist."
 playlist_8 : "Sudah Ada\n\nTrek ini ada di daftar putar Anda."
 playlist_9 : "Maaf! Anda hanya dapat memiliki {0} musik di daftar putar."
-playlist_10 : "Penambahan Daftar Putar\n\n{0}\add ke daftar putar Anda."
+playlist_10 : "Penambahan Daftar Putar\n\n{0}\nditambahkan ke daftar putar Anda."
 playlist_11 : "Berhasil menghapus trek Anda."
 playlist_12 : "Gagal menghapus trek Anda."
 playlist_13 : "Menghapus seluruh daftar putar Anda dari server."
@@ -176,11 +196,11 @@ trek_2 : "Kesalahan\n\nTidak ada {0} Daftar Putar 10 Teratas di server bot. Sila
 
 #PERALATAN
 
-#Lirik
-lirik_1 : "Penggunaan:\n\n/lirik [ Nama Musik]"
-lirik_2 : "Mencari Lirik"
-lirik_3 : "❌ Gagal mengambil lirik😭.\n\n💡Mencoba Mencari: {0}"
-lirik_4 : "Klik tombol di bawah ini dan cari lirik untuk menghindari pencarian lirik jenis spam yang panjang."
+#lyrics
+lyrics_1 : "Penggunaan:\n\n/lyrics [ Nama Musik]"
+lyrics_2 : "Mencari lyrics"
+lyrics_3 : "❌ Gagal mengambil lyrics😭.\n\n💡Mencoba Mencari: {0}"
+lyrics_4 : "Klik tombol di bawah ini dan cari lyrics untuk menghindari pencarian lyrics jenis spam yang panjang."
 
 #Ping
 ping_1 : "Pong!!!!"
@@ -221,8 +241,8 @@ CLOSEMENU_BUTTON : "🗑 Tutup Menu"
 BACK_BUTTON : "⬅ Kembali"
 UNBAN_BUTTON : "🗑 Unban Asisten"
 
-#Lirik
-L_B_1 : "🚀 Periksa Lirik Sekarang"
+#lyrics
+L_B_1 : "🚀 Periksa lyrics Sekarang"
 
 # Awal
 S_B_1 : "🗒 Perintah"
@@ -439,7 +459,7 @@ sug_14 : "Anda dapat memeriksa Statistik Grup di bot seperti 10 Lagu Teratas yan
 sug_15 : "Anda dapat memeriksa Statistik Global bot seperti 10 pengguna teratas, 10 obrolan teratas, 10 trek teratas, dll.\n\nPeriksa Statistik: /gstats "
 sug_16 : "Sekarang Anda dapat membisukan musik yang diputar di obrolan suara.\n\nPerintah: /mute"
 sug_17 : "Sekarang Anda dapat mengaktifkan dan menonaktifkan musik yang diputar di obrolan suara.\n\nPerintah: /mute dan /unmute"
-sug_18 : "Anda juga dapat mencari lirik musik bersama kami..\n\nPerintah: /lyrics [Nama Musik]"
+sug_18 : "Anda juga dapat mencari lyrics musik bersama kami..\n\nPerintah: /lyrics [Nama Musik]"
 sug_19 : "Anda dapat mengunduh musik atau video dari bot melalui Youtube.\n\nPerintah: /song [Nama Musik]"
 sug_20 : "Anda bisa mendapatkan daftar lengkap dari perintah saya yang saya terima.\n\nPerintah: /help"
 sug_21 : "Bot memiliki opsi daftar putar sisi server.\n\nAnda dapat menambahkan musik di daftar putar Anda dan memutar semuanya bersama-sama melalui /play"
