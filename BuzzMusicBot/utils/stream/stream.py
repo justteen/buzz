@@ -25,7 +25,7 @@ from BuzzMusicBot.utils.exceptions import AssistantErr
 from BuzzMusicBot.utils.inline.play import (stream_markup,
                                           telegram_markup)
 from BuzzMusicBot.utils.inline.playlist import close_markup
-from BuzzMusicBot.utils.pastebin import BuzzBotbin
+from BuzzMusicBot.utils.pastebin import Buzzbin
 from BuzzMusicBot.utils.stream.queue import put_queue, put_queue_index
 from BuzzMusicBot.utils.thumbnails import gen_thumb
 
