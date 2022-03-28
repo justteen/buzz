@@ -1,5 +1,5 @@
 
-from BuzzMusicBot.core.bot import YukkiBot
+from BuzzMusicBot.core.bot import BuzzBot
 from BuzzMusicBot.core.dir import dirr
 from BuzzMusicBot.core.git import git
 from BuzzMusicBot.core.userbot import Userbot
