@@ -28,7 +28,7 @@ def lanuages_keyboard(_):
             callback_data=f"languages:en",
         ),
         InlineKeyboardButton(
-            text="【I】【D】Indonesian",
+            text="🇮🇩 Indonesian",
             callback_data=f"languages:id",
         ),
     )
